@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   myfirstchart:
   - apiVersion: v2
+    appVersion: v1.1
+    created: "2025-06-26T00:43:34.671492857Z"
+    description: A Helm chart for Github.
+    digest: 65274350488f0b5c35c0b5f4a60a310f395af00824ce8822582daa7a0b114fdd
+    name: myfirstchart
+    type: application
+    urls:
+    - https://github.com/saurabhsinha09/helm-charts-repo/releases/download/myfirstchart-0.2.0/myfirstchart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: v1
     created: "2025-06-26T00:33:11.47232236Z"
     description: A Helm chart for Github.
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/saurabhsinha09/helm-charts-repo/releases/download/myfirstchart-0.1.0/myfirstchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-26T00:33:11.472329704Z"
+generated: "2025-06-26T00:43:34.671511311Z"
