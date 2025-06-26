@@ -1,6 +1,6 @@
 apiVersion: v2
-appVersion: "v1.1"
+appVersion: "v1.2"
 description: A Helm chart for Github.
 name: myfirstchart
 type: application
-version: 0.2.0
+version: 0.3.0
